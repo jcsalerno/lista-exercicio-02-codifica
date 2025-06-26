@@ -44,17 +44,3 @@ Dado um array `vendas` contendo objetos com `cliente` e `total`, usar o método 
 - `objetoParaPares(obj)`: recebe um objeto e retorna um array de pares `[ [chave, valor], ... ]`.
 
 ---
-
-## Como usar
-
-Cada exercício está implementado em sua respectiva função ou script, prontos para serem testados diretamente em ambiente JavaScript (Node.js, navegadores, IDEs como VS Code ou IntelliJ IDEA).
-
----
-
-## Contato
-
-Para dúvidas ou sugestões, entre em contato.
-
----
-
-# lista-exercicio-02-codifica
