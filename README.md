@@ -44,3 +44,35 @@ Dado um array `vendas` contendo objetos com `cliente` e `total`, usar o método 
 - `objetoParaPares(obj)`: recebe um objeto e retorna um array de pares `[ [chave, valor], ... ]`.
 
 ---
+
+## Como Rodar os Exercícios Localmente
+
+Este documento explica como executar os exercícios JavaScript localmente no seu computador usando Node.js.
+
+---
+
+## Pré-requisitos
+
+- Ter o **Node.js** instalado.  
+  Você pode baixar e instalar a partir do site oficial: [https://nodejs.org/](https://nodejs.org/)
+
+Para verificar se o Node.js está instalado, abra o terminal e digite:
+
+```bash
+node -v
+```
+## Passos para execução
+
+- Clone ou faça download do repositório contendo os exercícios.
+
+- Abra o terminal (Prompt de Comando, PowerShell, Terminal do VS Code ou IntelliJ IDEA).
+
+- Navegue até a pasta onde está o arquivo JavaScript que deseja executar. 
+
+- cd caminho/para/o/diretorio
+
+- Execute o arquivo JavaScript usando o Node.js:
+
+- Exemplo
+
+- node exercicio01.js
